@@ -17,8 +17,8 @@ export default function WordPage({ params }: { params: { slug: string } }) {
           <p>{word.example}</p>
         </div>
       )}
-      <Link href="/" className="w-full">
-        <Button variant="contained" color="primary" className="bg-blue-700 w-full mb-10">
+      <Link href="/" className="w-full mb-10 max-w-xs">
+        <Button variant="contained" color="primary" className="bg-blue-700 w-full">
           Back
         </Button>
       </Link>
