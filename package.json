@@ -10,12 +10,17 @@
     "lint:format": "next lint --fix"
   },
   "dependencies": {
+    "@emotion/react": "^11.11.1",
+    "@emotion/styled": "^11.11.0",
+    "@mui/material": "^5.14.14",
+    "add": "^2.0.6",
     "eslint-config-prettier": "^9.0.0",
     "eslint-plugin-prettier": "^5.0.1",
     "next": "13.5.5",
     "react": "^18",
     "react-dom": "^18",
-    "sass": "^1.69.4"
+    "sass": "^1.69.4",
+    "yarn": "^1.22.19"
   },
   "devDependencies": {
     "@types/node": "^20",

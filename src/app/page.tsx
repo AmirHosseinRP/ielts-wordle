@@ -1,9 +1,9 @@
-import WordsList from "@/ui/WordsList";
+import WordsList from "@/ui/WordsList/WordsList";
 
 export default function Home({ words }: any) {
   return (
-    <main className="flex min-h-screen flex-col items-center justify-between p-24">
+    <section className="w-full max-w-7xl px-5">
       <WordsList />
-    </main>
+    </section>
   );
 }
