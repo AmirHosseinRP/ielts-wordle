@@ -1,0 +1,872 @@
+[
+  {
+    "word": "Community",
+    "meaning": "Part of society",
+    "example": "We must build a strong community to ensure security."
+  },
+  {
+    "word": "Favourite",
+    "meaning": "Something which is liked",
+    "example": "This is my favourite song of the year."
+  },
+  {
+    "word": "Commercial",
+    "meaning": "Meant for profit",
+    "example": "Our service is purely commercial."
+  },
+  {
+    "word": "Pattern",
+    "meaning": "Trend",
+    "example": "The data shows a similar pattern."
+  },
+  {
+    "word": "Indigenous",
+    "meaning": "Native",
+    "example": "We must support our indigenous people."
+  },
+  {
+    "word": "Instrument",
+    "meaning": "Equipment",
+    "example": "To repair, we need instruments."
+  },
+  {
+    "word": "Traditional",
+    "meaning": "Existing for a long time",
+    "example": "Everyone must wear traditional dresses for Christmas."
+  },
+  {
+    "word": "Exist",
+    "meaning": "Something that is present",
+    "example": "Languages have existed for a long time."
+  },
+  {
+    "word": "Folk song",
+    "meaning": "Country song",
+    "example": "I am dancing to a folk song at this function."
+  },
+  {
+    "word": "Discuss",
+    "meaning": "Talk to others about something",
+    "example": "We must discuss the possible solution for climate change."
+  },
+  {
+    "word": "Glimpse",
+    "meaning": "summarise",
+    "example": "John gave us a glimpse of the event."
+  },
+  {
+    "word": "Theme",
+    "meaning": "Main essence",
+    "example": "We will suggest a random theme for his wedding."
+  },
+  {
+    "word": "History",
+    "meaning": "The past",
+    "example": "We must learn about Indian history."
+  },
+  {
+    "word": "Aristic",
+    "meaning": "Stylist",
+    "example": "The photography was artistic."
+  },
+  {
+    "word": "Quilt",
+    "meaning": "Join fabrics or clothes (bed cover)",
+    "example": "He was quilting the bed cover before going to sleep."
+  },
+  {
+    "word": "Shop",
+    "meaning": "A place which sells products",
+    "example": "The nearby shop is open."
+  },
+  {
+    "word": "Ordinary",
+    "meaning": "Authentic",
+    "example": "We give original honey."
+  },
+  {
+    "word": "Fold",
+    "meaning": "To rap something",
+    "example": "She folded the clothes"
+  },
+  {
+    "word": "Handicraft",
+    "meaning": "Handmade goods",
+    "example": "Give a handicraft for her birthday."
+  },
+  {
+    "word": "Rural",
+    "meaning": "Village",
+    "example": "Rural areas in India are underdeveloped."
+  },
+  {
+    "word": "Craft",
+    "meaning": "An activity that requires hand skills",
+    "example": "He crafted this masterpiece."
+  },
+  {
+    "word": "Ethnic",
+    "meaning": "Colour of skin",
+    "example": "We protect all ethnic groups in the society."
+  },
+  {
+    "word": "Pair",
+    "meaning": "Two identical things",
+    "example": "Give me a pair of sandals."
+  },
+  {
+    "word": "Maturity",
+    "meaning": "Mental optimal level",
+    "example": "Older people have more maturity."
+  },
+  {
+    "word": "Forest",
+    "meaning": "A place with wild flora and fauna",
+    "example": "The Amazon is one of the largest forests."
+  },
+  {
+    "word": "Thread",
+    "meaning": "A long, thin fibre for sewing.",
+    "example": "We built this net using thick thread."
+  },
+  {
+    "word": "Snacks",
+    "meaning": "Lite food",
+    "example": "We don’t have snacks here."
+  },
+  {
+    "word": "Delicious",
+    "meaning": "Tasty",
+    "example": "I cook delicious food."
+  },
+  {
+    "word": "Latter",
+    "meaning": "Between two things, the last one.",
+    "example": "I chose the latter book."
+  },
+  {
+    "word": "Vary",
+    "meaning": "Deviate",
+    "example": "People vary based on their locations."
+  },
+  {
+    "word": "Cuisine",
+    "meaning": "Cooking style",
+    "example": "Indian cuisines are spicy."
+  },
+  {
+    "word": "Pass time",
+    "meaning": "Leisure time",
+    "example": "What do you do for pass time?"
+  },
+  {
+    "word": "Hunting",
+    "meaning": "Killing animals for survival",
+    "example": "Wild animals hunt for a living."
+  },
+  {
+    "word": "Utensil",
+    "meaning": "A tool for cooking purpose",
+    "example": "Buy new utensils for this year."
+  },
+  {
+    "word": "Lifestyle",
+    "meaning": "The way of living",
+    "example": "We are not living a healthy lifestyle."
+  },
+  {
+    "word": "Poultry",
+    "meaning": "Household farm of chicken",
+    "example": "Poultry is now growing rapidly in rural areas."
+  },
+  {
+    "word": "Manage",
+    "meaning": "Organise",
+    "example": "You must manage your work."
+  },
+  {
+    "word": "Hill tracts",
+    "meaning": "Hill region",
+    "example": "Running in the hill tracts is risky."
+  },
+  {
+    "word": "Spices",
+    "meaning": "Seed, fruit, root or plants",
+    "example": "Indonesia is famous for spices."
+  },
+  {
+    "word": "Silent",
+    "meaning": "Without sound",
+    "example": "Students keep silent."
+  },
+  {
+    "word": "Provisional",
+    "meaning": "For present, will be changed later.",
+    "example": "Keep your provisional certificates ready for the admissions."
+  },
+  {
+    "word": "Casual",
+    "meaning": "Not formal",
+    "example": "He is a casual person."
+  },
+  {
+    "word": "Describe",
+    "meaning": "To explain elaborately",
+    "example": "Describe your working experience"
+  },
+  {
+    "word": "Structure",
+    "meaning": "Frame work",
+    "example": "The structure of the plan is good."
+  },
+  {
+    "word": "Nutrition",
+    "meaning": "Food values",
+    "example": "Biscuits have less nutrition."
+  },
+  {
+    "word": "Partner",
+    "meaning": "Associate",
+    "example": "He is my business partner."
+  },
+  {
+    "word": "Entire",
+    "meaning": "whole",
+    "example": "The entire stadium is crowded."
+  },
+  {
+    "word": "Socks",
+    "meaning": "A garment for foot",
+    "example": "My socks are wet."
+  },
+  {
+    "word": "Streams",
+    "meaning": "Tide",
+    "example": "The stream of padma is dangerous."
+  },
+  {
+    "word": "Sweet",
+    "meaning": "Pleasant, sugary",
+    "example": "I bought sweets for Diwali."
+  },
+  {
+    "word": "Popular",
+    "meaning": "famous",
+    "example": "Who is your favourite sportsperson?"
+  },
+  {
+    "word": "Remember",
+    "meaning": "To memorise, recall",
+    "example": "Remember your mobile number."
+  },
+  {
+    "word": "Properly",
+    "meaning": "rightly",
+    "example": "The essay was properly written."
+  },
+  {
+    "word": "Certain",
+    "meaning": "Something that is predictable",
+    "example": "Hard work certainly gives success."
+  },
+  {
+    "word": "Paternal",
+    "meaning": "From father side",
+    "example": "He is my paternal uncle."
+  },
+  {
+    "word": "Yield",
+    "meaning": "Result",
+    "example": "Yield was high this season."
+  },
+  {
+    "word": "Recreation",
+    "meaning": "entertainment",
+    "example": "Recreational activities are good for adults."
+  },
+  {
+    "word": "Prescribe",
+    "meaning": "To assign",
+    "example": "Take prescribed medicines."
+  },
+  {
+    "word": "Tragedy",
+    "meaning": "sorrow",
+    "example": "My planning was a tragedy."
+  },
+  {
+    "word": "Untimely",
+    "meaning": "inappropriate",
+    "example": "Your untimely submission has been rejected."
+  },
+  {
+    "word": "Isolate",
+    "meaning": "Left lonely",
+    "example": "He was isolated from the group."
+  },
+  {
+    "word": "Contagious",
+    "meaning": "Spreads by touch",
+    "example": "Covid-19 is contagious."
+  },
+  {
+    "word": "Fortnight",
+    "meaning": "After 14 days (two weeks)",
+    "example": "I go to a temple every fortnight."
+  },
+  {
+    "word": "Tidy",
+    "meaning": "Not spending too much",
+    "example": "Be tidy in your work."
+  },
+  {
+    "word": "Preface",
+    "meaning": "Introductory note",
+    "example": "Learn how to write a preface."
+  },
+  {
+    "word": "Heritage",
+    "meaning": "Cultural and physical structure of a society",
+    "example": "India has a rich heritage."
+  },
+  {
+    "word": "Fitful",
+    "meaning": "Not often happening",
+    "example": "The rain is fitful."
+  },
+  {
+    "word": "Envious",
+    "meaning": "Be jealous",
+    "example": "Don’t be envious of others."
+  },
+  {
+    "word": "Typical",
+    "meaning": "normal",
+    "example": "She is a typical hard-working woman."
+  },
+  {
+    "word": "Defying",
+    "meaning": "Refuse to obey",
+    "example": "He is defying our order."
+  },
+  {
+    "word": "Boutique",
+    "meaning": "Home cloth products",
+    "example": "Boutiques are expensive."
+  },
+  {
+    "word": "Chores",
+    "meaning": "Household work",
+    "example": "Chores are gender neutral."
+  },
+  {
+    "word": "Heed",
+    "meaning": "Pay attention",
+    "example": "Take good heed."
+  },
+  {
+    "word": "Nip",
+    "meaning": "bite",
+    "example": "The dog nipped him."
+  },
+  {
+    "word": "Wisdom",
+    "meaning": "knowledge",
+    "example": "He has wisdom in life."
+  },
+  {
+    "word": "Stunned",
+    "meaning": "shocked",
+    "example": "I was stunned by the results."
+  },
+  {
+    "word": "Admiration",
+    "meaning": "Praise",
+    "example": "I admire great leaders."
+  },
+  {
+    "word": "Fascinated",
+    "meaning": "enthusiastic",
+    "example": "I was fascinated by the idea."
+  },
+  {
+    "word": "Astonish",
+    "meaning": "surprise",
+    "example": "Astonishingly, people live longer than expected."
+  },
+  {
+    "word": "Vain",
+    "meaning": "fail",
+    "example": "The efforts went in vain."
+  },
+  {
+    "word": "Unstitched",
+    "meaning": "unsewn",
+    "example": "The pants are unstitched."
+  },
+  {
+    "word": "Grudge",
+    "meaning": "A persistent ill will",
+    "example": "Do not have grudges against opponents."
+  },
+  {
+    "word": "Greedy",
+    "meaning": "Wanting more than enough",
+    "example": "Greedy people won’t be satisfied."
+  },
+  {
+    "word": "Unfortunate",
+    "meaning": "unlucky",
+    "example": "Unfortunately, the company is closed."
+  },
+  {
+    "word": "Abuse",
+    "meaning": "humiliate",
+    "example": "Stop abusing others."
+  },
+  {
+    "word": "Ill fated",
+    "meaning": "hardluck",
+    "example": "He is ill fated."
+  },
+  {
+    "word": "Outward",
+    "meaning": "outgoing",
+    "example": "The flood is outward."
+  },
+  {
+    "word": "Sapling",
+    "meaning": "A young tree",
+    "example": "Saplings are necessary for climate change."
+  },
+  {
+    "word": "Passion",
+    "meaning": "Love to do something",
+    "example": "He is a passionate person."
+  },
+  {
+    "word": "Farthest",
+    "meaning": "Most distant",
+    "example": "Our house is located farthest from the city."
+  },
+  {
+    "word": "Scorching",
+    "meaning": "Very hot",
+    "example": "The summer is scorching hot."
+  },
+  {
+    "word": "Fallow land",
+    "meaning": "A land left unused",
+    "example": "Fallow land is now being used."
+  },
+  {
+    "word": "Fodder",
+    "meaning": "Food, like straw",
+    "example": "Fodder is taken to the cattle."
+  },
+  {
+    "word": "Enormous",
+    "meaning": "Huge",
+    "example": "The lion was enormous in the zoo."
+  },
+  {
+    "word": "Grumpy",
+    "meaning": "Angry",
+    "example": "The grumpy old woman fell sick."
+  },
+  {
+    "word": "Generous",
+    "meaning": "Kind-hearted",
+    "example": "He is a generous person."
+  },
+  {
+    "word": "Flattery",
+    "meaning": "Praising to gain something",
+    "example": "Flattery is weak."
+  },
+  {
+    "word": "Dove",
+    "meaning": "A kind of duck",
+    "example": "Doves are beautiful."
+  },
+  {
+    "word": "Sly",
+    "meaning": "cunny",
+    "example": "He is very sly."
+  },
+  {
+    "word": "Mighty",
+    "meaning": "big",
+    "example": "How mighty this machine looks."
+  },
+  {
+    "word": "Insincere",
+    "meaning": "Not obedient",
+    "example": "You are insincere."
+  },
+  {
+    "word": "Urge",
+    "meaning": "persuade",
+    "example": "I urge you to help the poor."
+  },
+  {
+    "word": "Grateful",
+    "meaning": "thankful",
+    "example": "I’m grateful for everything."
+  },
+  {
+    "word": "Noble",
+    "meaning": "Honourable",
+    "example": "Teaching is a noble profession."
+  },
+  {
+    "word": "Echo",
+    "meaning": "Own sound returning",
+    "example": "You will get an echo when you are in a cave."
+  },
+  {
+    "word": "Vicious",
+    "meaning": "Very bad",
+    "example": "Paradox of thrift is a vicious cycle."
+  },
+  {
+    "word": "Wisest",
+    "meaning": "Knowledgeable",
+    "example": "He is the wisest person."
+  },
+  {
+    "word": "Pledge",
+    "meaning": "A personal promise",
+    "example": "We pledge now to save the environment."
+  },
+  {
+    "word": "Steadfastness",
+    "meaning": "Inflexible",
+    "example": "Steadfastness is sometimes a weakness."
+  },
+  {
+    "word": "Worthless",
+    "meaning": "valueless",
+    "example": "Some actions are worthless."
+  },
+  {
+    "word": "Delight",
+    "meaning": "joy",
+    "example": "It was a delightful experience."
+  },
+  {
+    "word": "Lounge",
+    "meaning": "Lie, sit or stand",
+    "example": "Lounge can be an unaware movement."
+  },
+  {
+    "word": "Expire",
+    "meaning": "Out of death",
+    "example": "The milk expired."
+  },
+  {
+    "word": "Departure",
+    "meaning": "Going away",
+    "example": "The departure was sudden."
+  },
+  {
+    "word": "Seize",
+    "meaning": "stop",
+    "example": "The car was seized."
+  },
+  {
+    "word": "Enclosed",
+    "meaning": "encircled",
+    "example": "The area was fenced."
+  },
+  {
+    "word": "Lavatory",
+    "meaning": "toilet",
+    "example": "Use the lavatory on the right."
+  },
+  {
+    "word": "Descend",
+    "meaning": "Downward path",
+    "example": "The road descended."
+  },
+  {
+    "word": "Approximate",
+    "meaning": "Very close",
+    "example": "The approximate time is 12 pm."
+  },
+  {
+    "word": "Upright",
+    "meaning": "vertical",
+    "example": "The upright portion of the building is wet."
+  },
+  {
+    "word": "Turbulence",
+    "meaning": "unstable",
+    "example": "The wind is turbulent."
+  },
+  {
+    "word": "Fasten",
+    "meaning": "To tie",
+    "example": "Fasten your seatbelt."
+  },
+  {
+    "word": "Hesitate",
+    "meaning": "Not doing an action",
+    "example": "He is hesitant to tell the truth."
+  },
+  {
+    "word": "Fountain",
+    "meaning": "A place where water is gushing out",
+    "example": "The fountain looks beautiful."
+  },
+  {
+    "word": "Roasted",
+    "meaning": "fried",
+    "example": "The peanut was roasted."
+  },
+  {
+    "word": "Mythology",
+    "meaning": "Old stories and beliefs",
+    "example": "Adonis is involved in mythology."
+  },
+  {
+    "word": "Ancient",
+    "meaning": "Very old",
+    "example": "We have ancient texts."
+  },
+  {
+    "word": "Hazardous",
+    "meaning": "harmful",
+    "example": "This field of work involves hazardous substances."
+  },
+  {
+    "word": "Shoals",
+    "meaning": "A kind of fish",
+    "example": "Shoals are not delicious."
+  },
+  {
+    "word": "Knight",
+    "meaning": "An honoured soldier",
+    "example": "The knight is still alive."
+  },
+  {
+    "word": "Rely",
+    "meaning": "Depending upon something",
+    "example": "Don’t rely on today’s weather."
+  },
+  {
+    "word": "Oyster",
+    "meaning": "A sea animal",
+    "example": "Oysters are expensive."
+  },
+  {
+    "word": "Nomad",
+    "meaning": "A person who has no permanent place to live",
+    "example": "Nomads are increasing in the recent past."
+  },
+  {
+    "word": "Toddler",
+    "meaning": "A baby who barely walks",
+    "example": "Toddlers are active at home."
+  },
+  {
+    "word": "Herbal",
+    "meaning": "Prepared from herbs",
+    "example": "Herbal medicines are good."
+  },
+  {
+    "word": "Maternal",
+    "meaning": "From the mother’s side",
+    "example": "My maternal relatives are awesome."
+  },
+  {
+    "word": "Bedey",
+    "meaning": "Who do business using snakes",
+    "example": "Bedey are commonly seen in Bangladesh."
+  },
+  {
+    "word": "Compartment",
+    "meaning": "chamber",
+    "example": "Take any one compartment from the building."
+  },
+  {
+    "word": "Benign",
+    "meaning": "Gentle or kind",
+    "example": "We cannot be benign against the criminals."
+  },
+  {
+    "word": "Correspond (with/to)",
+    "meaning": "To be similar to something",
+    "example": "Politicians don’t correspond with their words."
+  },
+  {
+    "word": "Disposal",
+    "meaning": "The act of arranging or distributing",
+    "example": "Police are trained for effective disposal of duties."
+  },
+  {
+    "word": "Distinct",
+    "meaning": "Having easily-identifiable characteristics",
+    "example": "Dark chocolate is distinct from other varieties."
+  },
+  {
+    "word": "Erode",
+    "meaning": "To destroy slowly",
+    "example": "Many ancient texts were eroded."
+  },
+  {
+    "word": "interpretation",
+    "meaning": "An explanation",
+    "example": "Literature has various interpretations."
+  },
+  {
+    "word": "Legislation",
+    "meaning": "The process of making laws",
+    "example": "The new legislation benefits the country."
+  },
+  {
+    "word": "Majority",
+    "meaning": "The greater part or number",
+    "example": "The majority of the group ask for a leave."
+  },
+  {
+    "word": "Maximise",
+    "meaning": "To use to maximum effect or potential",
+    "example": "The goal of any business is to maximise its profits."
+  },
+  {
+    "word": "Minimise",
+    "meaning": "To reduce",
+    "example": "In any work you do, try to minimise the risk."
+  },
+  {
+    "word": "Obtain",
+    "meaning": "To get or receive",
+    "example": "Obtain respect from others."
+  },
+  {
+    "word": "Obvious",
+    "meaning": "Clear and easy to predict",
+    "example": "It’s obvious that people feel lonely these days."
+  },
+  {
+    "word": "Occur",
+    "meaning": "To happen or take place",
+    "example": "An earthquake might occur this year."
+  },
+  {
+    "word": "Option",
+    "meaning": "A choice",
+    "example": "There are plenty of options in engineering."
+  },
+  {
+    "word": "Participate",
+    "meaning": "To take part in something",
+    "example": "Students must participate in sports."
+  },
+  {
+    "word": "Period",
+    "meaning": "A portion of time",
+    "example": "During the modern period, countries suffered a lot."
+  },
+  {
+    "word": "Prospect",
+    "meaning": "A potential candidate",
+    "example": "We have different prospects based on the eligibility."
+  },
+  {
+    "word": "Psychological",
+    "meaning": "Relating to the mind",
+    "example": "Psychological health is more equally important."
+  },
+  {
+    "word": "Purchase",
+    "meaning": "To buy",
+    "example": "Purchase those materials for today’s event."
+  },
+  {
+    "word": "Pursue",
+    "meaning": "To do something",
+    "example": "I’m pursuing my goals."
+  },
+  {
+    "word": "Relevant",
+    "meaning": "Related to",
+    "example": "Give relevant answers to the questions."
+  },
+  {
+    "word": "Reliable",
+    "meaning": "Able to trust",
+    "example": "Always refer to reliable sources for exams."
+  },
+  {
+    "word": "Requirement",
+    "meaning": "Demanded",
+    "example": "You must meet these requirements to join our company."
+  },
+  {
+    "word": "Resource",
+    "meaning": "A support, supply or an aid of something",
+    "example": "We need more resources to complete this task."
+  },
+  {
+    "word": "Retain",
+    "meaning": "To remember",
+    "example": "When you learn, try to retain the information."
+  },
+  {
+    "word": "Role",
+    "meaning": "A position or customary function",
+    "example": "The role of a father is important in a man’s life."
+  },
+  {
+    "word": "Sector",
+    "meaning": "A part or subdivision",
+    "example": "It is the government sector."
+  },
+  {
+    "word": "Secure",
+    "meaning": "safe",
+    "example": "Children feel secure with their parents."
+  },
+  {
+    "word": "Significant",
+    "meaning": "important",
+    "example": "There is a significant improvement in your learning."
+  },
+  {
+    "word": "Status",
+    "meaning": "Someone’s position in relation to other people",
+    "example": "People seek status in society."
+  },
+  {
+    "word": "Symbolise",
+    "meaning": "To represent or be a symbol for something",
+    "example": "In most cultures, it is understood that the dove symbolises peace."
+  },
+  {
+    "word": "Technique",
+    "meaning": "A specific way of doing things",
+    "example": "I used this technique to solve my problems."
+  },
+  {
+    "word": "Transform",
+    "meaning": "To change into a different form",
+    "example": "The internet has transformed to another level."
+  },
+  {
+    "word": "Veritable",
+    "meaning": "Being truly or very much so",
+    "example": "I felt a veritable pain in my body."
+  },
+  {
+    "word": "Visible",
+    "meaning": "Able to be seen",
+    "example": "There has been a visible shift in public opinion towards the government."
+  },
+  {
+    "word": "Wane",
+    "meaning": "To decrease in strength, intensity, and so on",
+    "example": "My interest towards football has waned."
+  }
+]
